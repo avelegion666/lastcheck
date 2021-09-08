@@ -1,7 +1,1 @@
-{
-    "require": {
-      "php": "^7.4",
-      "ext-sqlsrv": "^5.9",
-      "ext-pdo_sqlsrv": "^5.9"
-    }
-} 
+{} 
